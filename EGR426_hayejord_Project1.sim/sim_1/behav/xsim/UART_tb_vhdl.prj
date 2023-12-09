@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../EGR426_hayejord_Project1.srcs/sources_1/new/UART_TestReport.vhd" \
+"../../../../EGR426_hayejord_Project1.srcs/sim_1/new/UART_tb.vhd" \
+
+# Do not sort compile order
+nosort

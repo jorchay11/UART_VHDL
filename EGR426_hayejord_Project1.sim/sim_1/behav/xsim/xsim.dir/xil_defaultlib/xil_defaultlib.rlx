@@ -1,0 +1,15 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/UART_tb.vhd,1644359925,vhdl,,,,uart_tb,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/clk_1K_tb.vhd,1643938338,vhdl,,,,clk_1k_tb,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/counter_2bit_tb.vhd,1643935077,vhdl,,,,counter_2bit_tb,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd,1644422154,vhdl,,,,mux_tb,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/segDecoder_tb.vhd,1644295775,vhdl,,,,segdecoder_tb,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/Clk_1K.vhd,1643938350,vhdl,,,,clk_1k,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/Seg_Decoder.vhd,1644249354,vhdl,,,,seg_decoder,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/UART_Recieve_Data.vhd,1644013088,vhdl,,,,uart_recieve_data,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/UART_TestReport.vhd,1644359378,vhdl,,,,uart_testreport,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/counter_2bit.vhd,1644249509,vhdl,,,,counter_2bit,,,,,,,,
+C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/mux_4to1.vhd,1644419875,vhdl,,,,mux_4to1,,,,,,,,

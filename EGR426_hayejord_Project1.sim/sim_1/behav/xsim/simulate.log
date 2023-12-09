@@ -1,0 +1,34 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+Note: Beginning the MUX test
+Time: 10 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+Note: Anode Test 1: Input 's' begins at '00', Expected '1110', Right Segment Activated
+Time: 20 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     30 ns  S -->00  Anode -->1110
+Note: Segs Test 1: Right Segment input is decoded 0, Expected '1100 0000'
+Time: 30 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     40 ns  Tens Digit -->10110000  Ones Digit -->11000000  S -->00  Seg Data -->11000000
+Note: Anode Test 2: Input 's' is '01', Expected '1110', Right Segment Activated
+Time: 40 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     50 ns  S -->01  Anode -->1110
+Note: Segs Test 2: A '1' key has been entered (31), Display 1 on Right Seg. Expected '11111001'
+Time: 50 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     60 ns  Tens Digit -->10110000  Ones Digit -->11111001  S -->01  Seg Data -->11111001
+Note: Anode Test 3: Input 's' is '10', Expected '1101', Left Segment now Activated
+Time: 60 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     70 ns  S -->10  Anode -->1101
+Note: Segs Test 3: A 'b' key is pressed. Display 6 on the left seg, Expected '1000 0010'
+Time: 70 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     82 ns  Tens Digit -->10000010  Ones Digit -->10100100  S -->10  Seg Data -->10000010
+Note: Anode Test 4: Input 's' at '11', Expected '1101', Left Segment Activated
+Time: 82 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+     92 ns  S -->11  Anode -->1101
+Note: Segs Test 4: Left Seg is ALL OFF, Rght Seg is C, Expected '1100 0110'
+Time: 92 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+    102 ns  Tens Digit -->11000110  Ones Digit -->11111111  S -->11  Seg Data -->11000110
+Note: Fail Test: Wrong segment data displayed
+Time: 102 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+    112 ns  Tens Digit -->11000110  Ones Digit -->11111111  S -->11  Seg Data -->11000110
+Failure: Seg Test Failed
+Time: 112 ns  Iteration: 0  Process: /mux_tb/stim_proc  File: C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd
+$finish called at time : 112 ns : File "C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/mux_tb.vhd" Line 74

@@ -1,0 +1,6 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.sim/sim_1/synth/func/xsim/segDecoder_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Proj1_serialDecoder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/Seg_Decoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'seg_decoder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/19896/EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sim_1/new/segDecoder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'segDecoder_tb'
